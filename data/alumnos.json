@@ -1,0 +1,36 @@
+[
+  {
+    "legajo": "12345",
+    "nombre": "Juan",
+    "apellido": "Quintero",
+    "anio": 2020
+  },
+  
+  {
+    "legajo": "4569",
+    "nombre": "Rosa",
+    "apellido": "Rors",
+    "anio": 2019
+  },
+
+  {
+    "legajo": "1357",
+    "nombre": "Miguel",
+    "apellido": "Ortiz",
+    "anio": 2018
+  },
+
+  {
+    "legajo": "15975",
+    "nombre": "Juliana",
+    "apellido": "Perez",
+    "anio": 2017
+  },
+
+  {
+    "legajo": "1000",
+    "nombre": "María",
+    "apellido": "González",
+    "anio": 2021
+  }
+]
